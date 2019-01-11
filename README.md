@@ -62,7 +62,18 @@ Now, once you have all your 3D models, it's time to [do something cool with them
 
 
 
-To get access to Flax while it's still in the closed alpha, [contact the developers ](https://flaxengine.com/contact/) (feel free to include your GitHub username) and get access to the closed alpha. 
+To get access to Flax while it's still in the closed alpha, just [contact the developers ](https://flaxengine.com/contact/) (feel free to include your GitHub username) and write something along the lines of:
+
+```
+Subject: FlaxEngine Closed Alpha
+
+Your Message:
+I'm a student and would love to get access to the super cool FlaxEngine closed alpha. 
+
+(My GitHub Profile: <insert link here>)
+```
+
+
 
 ### Important Links
 
