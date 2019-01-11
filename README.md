@@ -67,6 +67,7 @@ To get access to Flax while it's still in the closed alpha, [contact the develop
 ### Important Links
 
 - [Homepage](https://flaxengine.com/)
+- [**Visual Studio Extension**](https://marketplace.visualstudio.com/items?itemName=Flax.FlaxVS): You have to install this, otherwise Flax won't work.
 - [FlaxEngine Documentation](https://docs.flaxengine.com/manual/index.html): I'd recommend starting with ["Get started"](https://docs.flaxengine.com/manual/get-started/index.html)
 - [FlaxEngine Discord](http://discord.flaxengine.com/): Ask any questions about Flax there. The developers are super helpful!
 - [FlaxEngine Sample/Demo Projects](https://github.com/FlaxEngine/FlaxSamples): There is even a cheap first person shooter demo!
