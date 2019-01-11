@@ -56,6 +56,19 @@ Photoshop is a really high quality product for editing pictures. A rather decent
 
 
 
-# FlaxEngine ![Logo](./images/Flax_Logo_Small.png)
+# [FlaxEngine](https://flaxengine.com/) ![Logo](./images/Flax_Logo_Small.png)
 
-Now, once you have all your 3D models, it's time to [do something with them](./images/artist_vs_programmer.jpg)!
+Now, once you have all your 3D models, it's time to [do something cool with them](./images/artist_vs_programmer.jpg)!
+
+
+
+To get access to Flax while it's still in the closed alpha, [contact the developers ](https://flaxengine.com/contact/) (feel free to include your GitHub username) and get access to the closed alpha. 
+
+### Important Links
+
+- [Homepage](https://flaxengine.com/)
+- [FlaxEngine Documentation](https://docs.flaxengine.com/manual/index.html): I'd recommend starting with ["Get started"](https://docs.flaxengine.com/manual/get-started/index.html)
+- [FlaxEngine Discord](http://discord.flaxengine.com/): Ask any questions about Flax there. The developers are super helpful!
+- [FlaxEngine Sample/Demo Projects](https://github.com/FlaxEngine/FlaxSamples): There is even a cheap first person shooter demo!
+- [Shameless self promotion](https://github.com/stefnotch/keyboard-letters-game): A little thing I made
+
