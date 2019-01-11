@@ -84,3 +84,21 @@ I'm a student and would love to get access to the super cool FlaxEngine closed a
 - [FlaxEngine Sample/Demo Projects](https://github.com/FlaxEngine/FlaxSamples): There is even a cheap first person shooter demo!
 - [Shameless self promotion](https://github.com/stefnotch/keyboard-letters-game): A little thing I made
 
+
+
+# Questions? Problems? Suggestions?
+
+[Just post them here and I'll answer them.](https://github.com/stefnotch/student-3d-toolchain-intro/issues)
+
+
+
+### A bunch of example questions:
+
+- Wie mache ich XY mit der FlaxEngine?
+- Stimmt es das Metal schneller ist als DirectX 11?
+- Ist die Minecraft Grafik wirklich so schlecht oder...?
+- Und was sind "UV Coordinates"?
+- Welchen Git Client verwendest du?
+- Wofür steht "PBR" in "PBR Material"
+- Wie rig-e ich dieses 3D Modell um es dann animieren zu können?
+- Muss das alles auf Englisch sein? Hättest du es nicht auf Deutsch schreiben können?
