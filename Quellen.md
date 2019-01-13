@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=g49wAkJkV4A
 
 https://img2.cgtrader.com/items/692428/7b0c67525c/lowpoly-grim-reaper-3d-model-low-poly-max-obj-fbx-c4d.png
 
+https://media.giphy.com/media/1Qdp4trljSkY8/giphy.gif
+
+https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png
+
+https://img.icons8.com/color/1600/visual-studio.png
