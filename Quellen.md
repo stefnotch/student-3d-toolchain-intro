@@ -17,3 +17,13 @@ https://media.giphy.com/media/1Qdp4trljSkY8/giphy.gif
 https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png
 
 https://img.icons8.com/color/1600/visual-studio.png
+
+http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-Ising.jpg?itok=ObNjxzHa
+
+https://www.techmaish.com/wp-content/uploads/2018/04/Games-Graphics.jpg
+
+https://udemy-images.udemy.com/course/750x422/584522_0daa_3.jpg
+
+https://flaxengine.com/wp-content/images/feature_Editor.jpg
+
+https://www.gamepur.com/files/images/2011/crysis-2-multiplayer-screenshots.jpg
