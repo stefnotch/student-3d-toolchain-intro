@@ -60,7 +60,15 @@ Photoshop is a really high quality product for editing pictures. A rather decent
 
 Now, once you have all your 3D models, it's time to [do something cool with them](./images/artist_vs_programmer.jpg)!
 
+## Demo Project
 
+Check out the `FirstPersonShooterTemplate`. It's a tweaked, Leonie-approved version of a rather simplistic FlaxEngine Template Project.
+
+You can also grab a built version of it here...TODO!
+
+
+
+## Getting Flax
 
 To get access to Flax while it's still in the closed alpha, just [contact the developers ](https://flaxengine.com/contact/) (feel free to include your GitHub username) and write something along the lines of:
 

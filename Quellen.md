@@ -27,3 +27,9 @@ https://udemy-images.udemy.com/course/750x422/584522_0daa_3.jpg
 https://flaxengine.com/wp-content/images/feature_Editor.jpg
 
 https://www.gamepur.com/files/images/2011/crysis-2-multiplayer-screenshots.jpg
+
+
+
+## CC Attribution
+
+[Cool Gun Model](https://sketchfab.com/models/c7dbfeb8f3614f0f992edd1a048835fc)
